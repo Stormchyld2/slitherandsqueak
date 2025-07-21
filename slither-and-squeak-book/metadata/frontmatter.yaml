@@ -1,0 +1,29 @@
+---
+title: "Slither & Squeak: The Cold-Blooded Business of Feeder Rodents"
+author: "Slither & Squeak Co."
+date: 2025-07-21
+language: "en-US"
+fontsize: "12pt"
+mainfont: "Georgia"
+linestretch: 1.5
+papersize: "a5"
+geometry: "margin=1in"
+toc: true
+toc-depth: 2
+chapterstyle: "demo"
+links-as-notes: true
+output:
+  pdf_document:
+    latex_engine: "xelatex"
+    toc: true
+    toc_depth: 2
+    number_sections: true
+    highlight_style: "tango"
+  epub:
+    toc: true
+    toc_depth: 2
+  docx:
+    reference-doc: "custom-reference.docx"
+    toc: true
+    toc_depth: 2
+---

@@ -64,8 +64,8 @@ Use inline prompts to guide Copilot:
 
 ## ✍️ Writing Best Practices
 
-* Keep sections short and skimmable
-* Use bullet lists, numbered steps, and tables
+* Keep sections expanded and in-depth
+* Use bullet lists, numbered steps, and tables only when needed
 * Include real-world examples or case studies
 * Use clear headers: `## 🚀 Chapter Goals`, `## 🔁 Recap`, etc.
 * Write for reptile keepers, breeders, and small business readers

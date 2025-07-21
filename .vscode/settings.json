@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.vscode": false
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true
+  },
+  "git.enableSmartCommit": true,
+  "markdown.previewFrontMatter": "show"
+}
