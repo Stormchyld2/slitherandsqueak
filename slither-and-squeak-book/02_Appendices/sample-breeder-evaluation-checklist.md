@@ -1,47 +1,95 @@
-Appendix A: Breeder Evaluation Checklist
-Use this checklist when visiting a breeder, pet store, or expo to help assess animal quality and facility conditions before purchasing stock.
+---
+title: "Breeder Evaluation Checklist"
+type: "checklist"
+status: "active"
+author: "Slither & Squeak Co."
+tags:
+  - #breeder-selection
+  - #feeder-rodents
+  - #health-check
+  - #breeding-program
+created: 2025-07-21
+updated: 2025-07-21
+summary: >
+  A structured checklist to evaluate the suitability of individual rats or mice as breeding stock. Includes physical, behavioral, reproductive, and genetic criteria to support long-term health, productivity, and program consistency.
+---
 
-Facility Environment
- Clean bins or cages with fresh bedding
+# 🧬 Breeder Evaluation Checklist
 
- Proper ventilation and temperature control
+Use this checklist when selecting **new breeding stock** or conducting periodic evaluations of your current colony. Print and attach to bin/animal records or digitize for ongoing tracking.
 
- Minimal odor (no strong ammonia smell)
+---
 
- Food and water appear fresh and accessible
+## ✅ Physical Health
 
- No overcrowding or visible stress among animals
+| Checkpoint                                    | Pass | Notes |
+| --------------------------------------------- | ---- | ----- |
+| Clear eyes, no discharge                      | [ ]  |       |
+| Nose clean, no sneezing/wheezing              | [ ]  |       |
+| Fur clean, even, and full                     | [ ]  |       |
+| Skin free of sores, scabs, or parasites       | [ ]  |       |
+| Teeth properly aligned                        | [ ]  |       |
+| Nails not overgrown or curled                 | [ ]  |       |
+| Body condition: neither underweight nor obese | [ ]  |       |
+| Normal gait and mobility                      | [ ]  |       |
+| No signs of tumors or swelling                | [ ]  |       |
 
-Animal Appearance
- Medium, healthy body weight—not underfed or obese
+---
 
- Clear eyes, clean ears, and smooth fur
+## ✅ Behavior and Temperament
 
- No signs of mites, scabs, sores, or hair loss
+| Checkpoint                                        | Pass | Notes |
+| ------------------------------------------------- | ---- | ----- |
+| Active and alert when handled                     | [ ]  |       |
+| Not overly aggressive or fearful                  | [ ]  |       |
+| Accepts minimal handling without excessive stress | [ ]  |       |
+| Engages with enrichment or surroundings           | [ ]  |       |
 
- No deformities or visible injuries
+---
 
- Normal gait with no limping, twitching, or head tilt
+## ✅ Reproductive History (for current breeders)
 
-Behavior
- Animals are alert, curious, and responsive to movement
+| Checkpoint                                   | Pass | Notes |
+| -------------------------------------------- | ---- | ----- |
+| Proven breeder (at least 1 litter)           | [ ]  |       |
+| Litter size meets expectations               | [ ]  |       |
+| Good maternal behavior (if female)           | [ ]  |       |
+| No known birthing complications              | [ ]  |       |
+| Recovery time between litters is appropriate | [ ]  |       |
+| Offspring show normal growth and behavior    | [ ]  |       |
 
- No excessive aggression or fear
+---
 
- Social behavior seems stable (no excessive fighting or isolating)
+## ✅ Genetic and Line Considerations
 
-Health and Breeding Records
- Breeder can describe or show lineage of animals
+| Checkpoint                                                   | Pass | Notes |
+| ------------------------------------------------------------ | ---- | ----- |
+| No known congenital defects in line                          | [ ]  |       |
+| No history of poor fertility or small litters in line        | [ ]  |       |
+| Line selected for desired traits (size, temperament, growth) | [ ]  |       |
+| Avoids inbreeding with current colony                        | [ ]  |       |
 
- Breeding history is documented (litter size, age, pairings)
+---
 
- Sick animals are separated or quarantined
+## ✅ Additional Notes
 
- Male and female enclosures are properly separated unless breeding
+- Breeder Name or Tag: _____________  
+- Source or Origin: ________________  
+- Evaluation Date: _________________  
+- Evaluator: ______________________  
 
-Quarantine Plan (Post-Purchase)
- Plan to isolate new animals for 2–3 weeks before introducing
+---
 
- Separate room or bin prepared for quarantine
+## 🚫 Reasons for Disqualification (If Any)
 
- Cleaning supplies and observation notes ready
+- [ ] Chronic health issue  
+- [ ] Behavioral incompatibility  
+- [ ] Poor reproductive performance  
+- [ ] Genetic concern  
+- [ ] Aged out of program  
+- [ ] Unknown origin or quarantine failure  
+
+---
+
+> 🐭 **Tip:** Schedule regular evaluations every 3–4 months to monitor aging and performance, especially for large colonies.
+
