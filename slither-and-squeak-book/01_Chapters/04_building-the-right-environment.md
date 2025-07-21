@@ -22,16 +22,7 @@ summary: >
 
 ## 🎯 Chapter Goals
 
-The goals of this chapter are to help you reimagine your breeding environment—not as a static collection of cages and bins, but as a living, adaptable system that underpins every aspect of your colony’s success. By the end of this chapter, you will be able to:
-
-- **Explain how environmental factors shape outcomes:** Understand how air quality, temperature, humidity, lighting, and noise levels directly affect rodent health, behavior, breeding success, and overall productivity.
-- **Assess and select optimal housing:** Evaluate the pros and cons of different housing options—wire cages, plastic tubs, and custom rack systems—so you can choose solutions that match your current scale, budget, and future plans.
-- **Design and implement scalable systems:** Gain practical skills for building or modifying rack systems that maximize space, streamline daily care, and allow for easy expansion as your colony grows.
-- **Establish effective routines:** Develop daily, weekly, and monthly care routines—including cleaning, health checks, and enrichment—that promote animal welfare, reduce stress, and prevent common problems.
-- **Identify and address environmental risks:** Learn to spot early warning signs of environmental issues—such as poor ventilation, temperature swings, or overcrowding—and confidently troubleshoot and adapt your setup to maintain a healthy, productive colony.
-- **Foster a mindset of continuous improvement:** Embrace a proactive approach to environmental management, using observation, record-keeping, and feedback to refine your practices and respond to new challenges as they arise.
-
-By focusing on these goals, you’ll be equipped to create an environment that not only meets your animals’ needs but also supports your long-term success as a breeder.
+The goal of this chapter is to help you reimagine your breeding environment—not as a static collection of cages and bins, but as a living, adaptable system that supports every aspect of your colony’s success. By the end of this chapter, you’ll be able to clearly explain how environmental factors like air quality, temperature, humidity, lighting, and noise directly influence rodent health, behavior, breeding outcomes, and overall productivity. You’ll be equipped to assess and select the most suitable housing for your needs, weighing the pros and cons of wire cages, plastic tubs, and rack systems to match your current scale, budget, and long-term goals. You’ll gain practical insight into designing or modifying rack systems that maximize space, improve workflow, and grow with your operation. Just as important, you’ll learn to establish and maintain daily, weekly, and monthly routines that support animal welfare—routines that include cleaning, health checks, and enrichment to minimize stress and prevent avoidable problems. You’ll also develop the skills to identify and address environmental risks early, such as poor ventilation, temperature swings, or overcrowding, and learn how to troubleshoot and adapt your setup to avoid disruptions. Finally, you’ll cultivate a mindset of continuous improvement—one rooted in observation, record-keeping, and the flexibility to refine your systems as new challenges arise. With these tools and habits in place, you’ll be prepared to create an environment that not only meets your animals’ needs but also lays the groundwork for your long-term success as a breeder.
 ---
 
 ## 📘 What You’ll Learn in This Chapter
