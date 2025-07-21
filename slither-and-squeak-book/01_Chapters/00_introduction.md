@@ -13,10 +13,6 @@ summary: >
   A comprehensive and in-depth introduction to the world of feeder rodents, this chapter outlines the economic and ethical landscape of the industry, shares the real-world origin of Slither & Squeak Co., and prepares the reader to navigate the business of breeding with both confidence and compassion.
 ---
 
-<!--
-Copilot Prompt:
-Write detailed, narrative-driven nonfiction chapters about feeder rodent breeding and business. Follow the template: Chapter Goals, What You’ll Learn, Overview, Real-World Examples, Deep Dive Topics, Pitfalls, Apply It, Author Reflection, and Coming Next. Use paragraph formatting instead of bullets when possible. Be informative and inspiring. This tone sets the standard for the entire book.
--->
 
 # Introduction – Why Feeders Matter
 
