@@ -12,7 +12,10 @@ tags:
   created: 2025-07-21
   updated: 2025-07-21
   summary: >
-  README file for the Slither & Squeak nonfiction book writing project. Includes folder descriptions, writing instructions, and publishing tips.
+  README file for the Slither & Squeak nonfiction book writing project. Includes folder descriptions, writing instructions, and publishing tips. # Slither & Squeak Co. Book Project
+
+This repository contains the full manuscript, planning tools, and appendix material for a nonfiction book titled *Slither & Squeak: The Cold-Blooded Business of Feeder Rodents*. Each chapter is written in Markdown using a consistent nonfiction structure with YAML frontmatter. The book is designed for aspiring small-scale feeder rodent breeders who want to operate cleanly, ethically, and profitably.
+
 
 ---
 
