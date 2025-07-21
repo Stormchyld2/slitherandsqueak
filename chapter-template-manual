@@ -1,0 +1,176 @@
+---
+
+title: "How to Use Templates in the Slither & Squeak Nonfiction System"
+type: "instructional-guide"
+status: "active"
+author: "Slither & Squeak Co."
+tags:
+
+* \#writing-system
+* \#template-guide
+* \#nonfiction
+  created: 2025-07-21
+  updated: 2025-07-21
+  summary: >
+  This guide explains how to use the chapter templates and folder structure in your nonfiction book project to maximize GitHub Copilot's assistance and maintain professional-quality organization.
+
+---
+
+# 🧠 How to Use Templates in the Slither & Squeak Nonfiction Writing System
+
+## 📁 Project Folder Structure
+
+Your VS Code project should look like this:
+
+```
+slither-and-squeak-book/
+├── README.md
+├── book.md (optional full compiled file)
+├── chapters/
+│   ├── 01_introduction.md
+│   ├── 02_feeder-industry.md
+│   └── ...
+├── templates/
+│   └── chapter-template.md
+├── assets/
+│   └── images/
+├── metadata/
+│   └── frontmatter.yaml
+```
+
+Each `chapters/` file should be a standalone markdown file using the template from `chapter-template.md`.
+
+---
+
+## 🧩 The Chapter Template: What It Does
+
+The `chapter-template.md` file is a complete, professional-grade nonfiction chapter scaffold designed to:
+
+* Structure your writing into clear, skimmable parts
+* Give GitHub Copilot predictable patterns to complete
+* Make future formatting for Kindle, print, or PDF easier
+* Improve readability and reader retention
+
+---
+
+## 🧾 What’s in the Template?
+
+### ✅ YAML Frontmatter
+
+Every chapter starts with:
+
+```yaml
+---
+title: "Chapter 1: Example"
+type: "book-chapter"
+status: "draft"
+author: "Slither & Squeak Co."
+tags:
+  - #tag1
+created: 2025-07-21
+updated: 2025-07-21
+summary: >
+  One-sentence description of this chapter.
+---
+```
+
+This enables markdown processors (like Pandoc) and Copilot to understand the context of the file.
+
+---
+
+### 💬 Copilot Prompt Comment
+
+Place this comment below the frontmatter:
+
+```markdown
+<!--
+Copilot Prompt:
+You are helping write a nonfiction instructional business book. Each chapter includes frontmatter, structured sections, examples, and tools. Write clearly and helpfully.
+-->
+```
+
+This primes GitHub Copilot to write in the correct style, tone, and structure.
+
+---
+
+## 🧱 How to Create a New Chapter
+
+1. Copy `templates/chapter-template.md`
+2. Rename it to something like `03_rodent-biology.md` inside `chapters/`
+3. Update the title and summary
+4. Begin writing!
+
+---
+
+## ✨ Optional: Copilot-Boosting Comments
+
+Anywhere in your markdown, you can guide Copilot:
+
+```markdown
+<!-- Copilot: Expand on how to price frozen feeders in bulk -->
+```
+
+or:
+
+```markdown
+<!-- Copilot: Add 3 mistakes beginner breeders make here -->
+```
+
+Use comments like these often to make Copilot write smarter and more targeted content.
+
+---
+
+## ✅ Writing Tips for Using the Template
+
+* Always write in sections (`##`, `###`)
+* Use bullet lists or tables where possible
+* Keep paragraphs short and purposeful
+* Add a call-to-action at the end of each chapter
+* Think like a course builder: what’s the outcome for the reader?
+
+---
+
+## 🧰 Example Section Headings
+
+```markdown
+## 🚀 Chapter Goals
+## 🔍 In This Chapter You’ll Learn
+## 1. [Section Title]
+## 2. [Section Title]
+## 3. Common Mistakes
+## 🧪 Case Study
+## 🛠️ Tools or Worksheets
+## 🔁 Recap & Action Steps
+## 💬 Author Insight
+```
+
+Stick to these or a variation of them for best results.
+
+---
+
+## 📚 Using the Template with Pandoc or Kindle Later
+
+This formatting is designed to convert beautifully to:
+
+* PDF print layouts
+* Kindle eBooks
+* Print-on-demand books via Amazon KDP
+
+We'll handle compilation later. For now, **just stay consistent**.
+
+---
+
+## 💬 Questions?
+
+If you're ever stuck, just:
+
+* Copy from the last working chapter
+* Ask Copilot directly: “Write this next section based on the last one.”
+* Use the prompts already in your template
+
+You're building not just a book—but a system you can use again and again.
+
+---
+
+**Slither & Squeak Co.**
+*Quality Feeders for Cold-Blooded Companions*
